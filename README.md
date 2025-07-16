@@ -1,5 +1,7 @@
 # Reddit Persona Chat
 
+[![Try on Hugging Face](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black)](https://huggingface.co/spaces/smit-faldu/Reddit-Persona-Chat) 
+
 Reddit Persona Chat is a web application that analyzes a Reddit user's comments and posts to create a persona, which you can then chat with. The application uses LangChain and Google's Gemini model to generate realistic personas and responses.
 
 ## Features
